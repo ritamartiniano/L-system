@@ -1,0 +1,7 @@
+axiom=X
+angle=30
+generations=4
+length=20;
+
+X=[F-[[X]+X]+F[+FX]-X]
+F=FF

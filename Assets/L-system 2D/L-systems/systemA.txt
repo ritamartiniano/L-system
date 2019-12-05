@@ -1,0 +1,6 @@
+axiom=F
+angle=25.7
+generations=3
+
+F=F[+F]F[-F]F
+

@@ -1,0 +1,5 @@
+axiom=F
+angle=22.5
+generations=3
+
+F=FF-[-F+F+F]+[+F-F-F]

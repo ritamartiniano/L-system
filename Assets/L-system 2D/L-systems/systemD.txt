@@ -1,0 +1,6 @@
+axiom=X
+angle=20
+generations=3
+
+X=F[+X]F[-X]+X
+F=FF
